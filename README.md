@@ -3,7 +3,7 @@
 # Learning Objectives
 
 In this module, you will:
-- Communicate with the project community in isssues
+- Communicate with the project community in issues
 - Manage notifications for project events
 - Create brances to manage work in parallel
 - Make commits to update project source
